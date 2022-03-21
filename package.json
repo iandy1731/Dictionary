@@ -24,7 +24,7 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-    "homepage": "https://iandy1731.github.io/DictionaryTest2/",
+    "homepage": "https://iandy1731.github.io/Dictionary/",
     "deploy": "gh-pages -d build",
     "start": "set PORT=1234 && react-scripts start",
     "build": "react-scripts build",
